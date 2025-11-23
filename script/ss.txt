@@ -1,0 +1,56 @@
+C:\Users\Admin\Desktop\script\test_headless_login.py:244: SyntaxWarning: invalid escape sequence '\.'
+  const match = candidate.match(/([0-9]{1,3}(\.[0-9]{1,3}){3})/);
+================================================================================
+HEADLESS LOGIN AUTOMATION TEST
+================================================================================
+
+This script will test:
+  1. Headless browser initialization
+  2. Navigation to login page
+  3. Login form interaction
+  4. Credential extraction (cookies and auth token)
+  5. API call test with extracted credentials
+
+NOTE: If you see 'Proxy IP' in error messages but don't use a proxy:
+  - Your ISP may be using CGNAT (Carrier-Grade NAT)
+  - You might be on a corporate/work network with a proxy
+  - IPv6 tunneling might be routing through a proxy
+  - Try disabling IPv6 or using a different network
+
+Continue with test? (y/n): y
+
+================================================================================
+STEP 1: Initializing Chrome browser (VISIBLE MODE)
+================================================================================
+  Checking for proxy environment variables...
+  ✓ No proxy environment variables found
+  Creating Chrome driver...
+  ✓ Browser initialized successfully (using Selenium Manager)
+  Injecting anti-detection scripts...
+  ✓ Stealth scripts injected
+
+================================================================================
+STEP 2: Navigating to login page
+================================================================================
+  URL: https://bizfileonline.sos.ca.gov/
+  Current URL: https://bizfileonline.sos.ca.gov/
+  ✓ Page loaded
+  Applying additional anti-detection measures...
+  ⚠ Could not apply additional stealth: Message: javascript error: Cannot redefine propert
+
+  Checking network configuration...
+    Local IP detected: Not detected
+    Platform: Win32
+    Language: en-US
+    Connection: 4g (downlink: 10 Mbps)
+
+================================================================================
+STEP 3: Finding login elements
+================================================================================
+  ✓ Clicked login element: button:contains('Login')
+
+================================================================================
+STEP 4: Entering login credentials
+================================================================================
+  ✓ Found username field: input[name='identifier']
+  Typing username slowly (character by character with mistakes)...

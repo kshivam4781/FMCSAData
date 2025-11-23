@@ -1,0 +1,57 @@
+BUSINESS RECORDS SUMMARY
+================================================================================
+Total Records: 3495
+Collection Date: 2025-11-12 17:07:21
+
+Sample Records (first 10):
+--------------------------------------------------------------------------------
+1. ID: 2399618
+   Title: "943 12TH STREET HOMEOWNER'S ASSOCIATION" (942002)
+   Status: Active
+   Entity Type: Nonprofit Corporation - CA - Mutual Benefit
+
+2. ID: 6058589
+   Title: "97.1 FM, LLC, THE" (199802910008)
+   Status: Terminated
+   Entity Type: Limited Liability Company - CA
+
+3. ID: 2381664
+   Title: "99" STADIUM, INC. (214116)
+   Status: Terminated
+   Entity Type: Stock Corporation - CA - General
+
+4. ID: 2059608
+   Title: "SYSTEMS 90, INCORPORATED" (621483)
+   Status: Suspended - FTB
+   Entity Type: Stock Corporation - CA - General
+
+5. ID: 5848332
+   Title: #9 DIMENSION PARK PARTNERS, LTD, A CALIFORNIA LIMITED PARTNERSHIP (199107700013)
+   Status: Active
+   Entity Type: Limited Partnership - CA
+
+6. ID: 614720
+   Title: #9 MARKETING INC. (3373023)
+   Status: Active
+   Entity Type: Stock Corporation - CA - General
+
+7. ID: 2417181
+   Title: $9.99 CLOTHING STORE INC. (950023)
+   Status: Terminated
+   Entity Type: Stock Corporation - CA - General
+
+8. ID: 3336923
+   Title: $96 ENTERTAINMENT, CORP. (3692958)
+   Status: Terminated
+   Entity Type: Stock Corporation - CA - General
+
+9. ID: 3055879
+   Title: $99 ACCOUNTANT (3890135)
+   Status: Suspended - FTB
+   Entity Type: Stock Corporation - CA - General
+
+10. ID: 5075183
+   Title: $99 AUTO SALES LLC (201916810192)
+   Status: Active
+   Entity Type: Limited Liability Company - CA
+
