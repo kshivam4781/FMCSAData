@@ -26,9 +26,9 @@ Thumbs.db
 # Logs
 *.log
 
-# Excel files (optional - uncomment if you don't want to track generated files)
-# *.xlsx
-# *.xls
+# Excel files (generated files - don't track)
+*.xlsx
+*.xls
 
 # Environment variables
 .env
